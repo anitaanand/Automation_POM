@@ -12,6 +12,7 @@ import org.openqa.selenium.WebDriver;
 
 public class AutoUtils 
 {
+	//Modifying the logic
 	//Method to take screenshot
 	public static String getPhoto(WebDriver driver, String folder, String fileName)
 	{
